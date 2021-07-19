@@ -1,0 +1,15 @@
+:root {
+  /* BACKGROUND COLOR */
+
+  --clr-light: #ffffff;
+  --clr-dark: #404040;
+
+  --clr-file: #0092ba;
+
+  --clr-box-border: 1px solid #262626;
+
+  /* GENERAL PROPERTIES */
+
+  --bd: 1px solid #404040;
+  --bs: 10px;
+}
